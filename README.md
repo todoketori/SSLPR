@@ -1,4 +1,6 @@
-					***Sammy Slapper ReadMe***
+					***Service Secured ReadMe***
+
+(This is a project intended to be a collaborative effort between me and an additional developer)
 
 This script runs a simple encryption app. To use this app you run the script, 
 open the file section, press 'Encrypt' and save the encrypted file in the folder of your choosing.
